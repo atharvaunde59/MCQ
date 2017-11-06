@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "996944961387",
+    "firebase_url": "https://fe-pccoe-mcq-app.firebaseio.com",
+    "project_id": "fe-pccoe-mcq-app",
+    "storage_bucket": "fe-pccoe-mcq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996944961387:android:465733892fe51d66",
+        "android_client_info": {
+          "package_name": "com.atharva.pccoemcq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996944961387-kok4edfpf364na8bgldda8nvdlj0sf6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atharva.pccoemcq",
+            "certificate_hash": "539829a22367aeb62871e20800d4df0539b99e37"
+          }
+        },
+        {
+          "client_id": "996944961387-0c2tqlps44a3vo76o7k0uamua7r85jcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Sa0mkPHVYs29EsAZlaS91LPd8XvJWPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996944961387-0c2tqlps44a3vo76o7k0uamua7r85jcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
